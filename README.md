@@ -1,0 +1,1 @@
+all the basic commands need to know for working in docker
